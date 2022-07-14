@@ -3644,13 +3644,13 @@ img {
   }
 
   .sidebar-collapse .navbar-collapse:before {
-    background: #378C3F;
+    background: #af3ca4;
     /* For browsers that do not support gradients */
     /* For Safari 5.1 to 6.0 */
     /* For Opera 11.1 to 12.0 */
     /* For Firefox 3.6 to 15 */
-    background: -webkit-gradient(linear, left top, left bottom, from(#378C3F), color-stop(80%, #000));
-    background: linear-gradient(#378C3F 0%, #000 80%);
+    background: -webkit-gradient(linear, left top, left bottom, from(#af3ca4), color-stop(80%, #000));
+    background: linear-gradient(#af3ca4 0%, #000 80%);
     /* Standard syntax (must be last) */
     opacity: 0.76;
     filter: alpha(opacity=76);
